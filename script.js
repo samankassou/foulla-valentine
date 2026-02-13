@@ -55,7 +55,7 @@
 */
 const messages = [
     "Tu es sûr ?",
-    "Vraiment sûr ??",
+    "Vraiment sûre ??",
     "Tu es certain ?",
     "Diana s'il te plaît...",
     "Réfléchis-y juste un instant !",
